@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java,Html,Css**
+- 🌱 I’m currently learning **Full stack development**
 
 - 📫 How to reach me **parimaladevi898@gmail.com**
 
